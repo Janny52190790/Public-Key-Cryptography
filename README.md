@@ -1,4 +1,4 @@
-# Assignment 5 - Public Key Cryptography
+# Public Key Cryptography
 For this assignment, we mainly need to Encrypt and decrypt files using RSA. The keygen program will be in charge of key generation, producing RSA public and private key pairs.The encrypt program will encrypt files using a public key, and the decrypt program will decrypt the encrypted files using the corresponding private key.
 
 ## Automate compilation by using Makefile
